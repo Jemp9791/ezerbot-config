@@ -1,4 +1,26 @@
 {
+  "negocio": { ... },
+  "catalogo": [ ... ],
+  "promos": [],
+  "sellos": [],
+
+  "Config": [
+    {
+      "NombreNegocio": "Todo Queso",
+      "LogoURL": "https://i.postimg.cc/....png",
+      "Direccion": "Garín",
+      "Horarios": "Lun a Sáb 08:30-14:00 / 16:30-21:00",
+      "Telefono": "3484230184",
+      "Instagram": "https://instagram.com/todoqueso.club"
+    }
+  ],
+  "Catalogo": [],
+  "Promos": [],
+  "Sellos": []
+}
+
+
+{
   "negocio": {
     "nombre": "Todo Queso",
     "logo": "https://i.postimg.cc/26WcGXBd/Copia-de-Orange-Bold-Colorful-Turkey-Sandwich-Instagram-Story-(Video).png",
