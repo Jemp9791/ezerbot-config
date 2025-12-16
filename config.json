@@ -4,7 +4,7 @@
     "logo": "https://i.postimg.cc/26WcGXBd/Copia-de-Orange-Bold-Colorful-Turkey-Sandwich-Instagram-Story-(Video).png",
     "direccion": "Garín",
     "horarios": "Lun a Sáb 08:30–14:00 / 16:30–21:00",
-    "telefono": "",
+    "telefono": "3484230184",
     "instagram": "https://instagram.com/todoqueso.club"
   },
 
@@ -23,12 +23,12 @@
   "envios": {
     "activo": true,
     "zonas": [
-      { "zona": "Garín", "costo": 1500 }
+      { "zona": "Garín", "costo": 2000 }
     ]
   },
 
   "vendedor": {
-    "whatsapp": "54911XXXXXXXX"
+    "whatsapp": "5493484230184"
   },
 
   "sellos": {
