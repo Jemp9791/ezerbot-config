@@ -1,6 +1,44 @@
 {
-  "Config": [],
-  "Catalogo": [],
-  "Promos": [],
-  "Sellos": []
+  "negocio": {
+    "nombre": "Todo Queso",
+    "logo": "https://i.postimg.cc/26WcGXBd/Copia-de-Orange-Bold-Colorful-Turkey-Sandwich-Instagram-Story-(Video).png",
+    "direccion": "Garín",
+    "horarios": "Lun a Sáb 08:30–14:00 / 16:30–21:00",
+    "telefono": "",
+    "instagram": "https://instagram.com/todoqueso.club"
+  },
+
+  "catalogo": [
+    {
+      "codigo": "TQ01",
+      "nombre": "PICADA P/4",
+      "precio": 30000,
+      "unidad": "unidad",
+      "categoria": "Promos",
+      "imagen": "https://i.postimg.cc/26WcGXBd/Copia-de-Orange-Bold-Colorful-Turkey-Sandwich-Instagram-Story-(Video).png",
+      "descripcion": "Picada para 4 personas con cerveza. Solo con reserva previa."
+    }
+  ],
+
+  "envios": {
+    "activo": true,
+    "zonas": [
+      { "zona": "Garín", "costo": 1500 }
+    ]
+  },
+
+  "vendedor": {
+    "whatsapp": "54911XXXXXXXX"
+  },
+
+  "sellos": {
+    "activo": true,
+    "porCompra": 1,
+    "objetivo": 10,
+    "premio": "10% OFF"
+  },
+
+  "bot": {
+    "link": "https://t.me/Ezer_IA_Bot"
+  }
 }
